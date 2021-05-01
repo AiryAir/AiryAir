@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AiryAir
 - 👀 I’m interested in embedded systems and Android development
-- 🌱 I’m currently learning Java, Kotlin.
+- 🌱 I’m currently learning Java, embedded systems.
 - 💞️ I’m looking to collaborate on Android apps
 - 📫 How to reach me --> discord: Air#9440
 
