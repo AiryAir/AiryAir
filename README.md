@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AiryAir
-- 👀 I’m interested in embedded systems and Android development
-- 🌱 I’m currently learning Java, embedded systems.
-- 💞️ I’m looking to collaborate on Android apps
+- 👀 I’m interested in electronics, embedded systems, microcontrollers.
+- 🌱 I’m currently learning these.
+- 💞️ I’m looking to collaborate on anything I can help with mostly Arduino/RPi stuff.
 - 📫 How to reach me --> twt: @airyy72
 
 <!---
