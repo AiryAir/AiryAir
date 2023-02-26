@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AiryAir
-- 👀 I’m interested in electronics, embedded systems, microcontrollers, android dev, ui/ux design.
+- 👀 I’m interested in electronics, robotics, embedded systems, microcontrollers, android dev, ui/ux design.
 - 🌱 I’m currently learning all this ^
 - 💞️ I’m looking to collaborate on anything I can help with mostly Arduino/RPi stuff.
 - 📫 How to reach me --> twt: @airyy72
