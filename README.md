@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AiryAir
-- 👀 I’m interested in electronics, robotics, embedded systems, microcontrollers, android dev, ui/ux design.
-- 🌱 I’m currently learning all this ^
-- 💞️ I’m looking to collaborate on anything I can help with mostly Arduino/RPi stuff.
+- 👀 I’m interested in electronics, robotics, embedded systems and ui/ux design.
+- 🌱 I’m currently learning ROS
+- 💞️ I’m looking to collaborate on any ROS projects.
 - 📫 How to reach me --> twt: @airyy72
 
 <!---
